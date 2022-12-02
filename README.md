@@ -16,7 +16,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=20Sunny&icon=5&color=12)](https://visitcount.itsvg.in)
-
+<img src="https://profile-counter.glitch.me/20Sunny/count.svg" />
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/20Sunny) 
 
