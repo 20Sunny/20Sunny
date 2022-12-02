@@ -2,7 +2,7 @@
 <h1 align="center"> Hi👋, I am Sunny Sharma</h1>
 <h3 align="center">A Passionate Front-End Deveoper from India</h3>
 💫 About Me:<img align="right" src="https://camo.githubusercontent.com/4a5d6aa6a28103d12e7f8b0e0728cb3be03f62981e2ca91eb1e9399dcf0b48fe/68747470733a2f2f626c6f672e62736f757263652e636f6d2e62722f6173736574732f696d672f5475746f7269616c2e676966" alt="Coder GIF" width="420" height="350">
-🔭 I’m currently working on A.I. Verse<br>👯 I’m looking to collaborate on A.I.<br>🤝 I’m looking for help with A.I. and M.L.<br>🌱 I’m currently learning Python and Lisp<br>💬 Ask me about Web Development<br>⚡ Fun fact : I Don't Know
+🔭 I’m currently working on A.I. Verse<br>👯 I’m looking to collaborate on A.I.<br>🤝 I’m looking for help with A.I. and M.L.<br>🌱 I’m currently learning Python and Lisp<br>💬 Ask me about Web Development<br>⚡ Fun fact : [![](https://visitcount.itsvg.in/api?id=20Sunny&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sunny-Sharma-Rishishwar/100039237182147/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_sunny_7601) 
@@ -14,7 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=20Sunny&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Sunny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=20Sunny&icon=5&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/20Sunny) 
