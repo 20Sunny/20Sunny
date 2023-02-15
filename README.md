@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate Front-End Deveoper from India</h3>
 💫 About Me:<img align="right" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" style="object-fit: contain;" alt="Coder GIF" width="400" height="250"><br><br>
 🔭 I’m currently working on A.I. Verse<br>👯 I’m looking to collaborate on A.I.<br>🤝 I’m looking for help with A.I. and M.L.<br>🌱 I’m currently learning Python and Lisp<br>💬 Ask me about Web Development<br>👀 Visitiors Count<img src="https://profile-counter.glitch.me/20Sunny/count.svg">
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sunny-Sharma-Rishishwar/100039237182147/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_sunny_7601)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://20sunny.github.io)
 ![snake gif](https://github.com/20sunny/20sunny/blob/output/github-contribution-grid-snake.svg)
