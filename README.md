@@ -1,4 +1,4 @@
-<img height="auto" width="100%" src="./AIVANA.gif">
+<img height="auto" width="auto" src="./AIVANA.gif">
 <h1 align="center"> Hi :trollface:, I am Sunny Sharma</h1>
 <h3 align="center">A Passionate Front-End Deveoper from India</h3>
 💫 About Me:<img align="right" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" style="object-fit: contain;" alt="Coder GIF" width="400" height="250"><br><br>
