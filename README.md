@@ -1,5 +1,5 @@
 <img height="auto" width="auto" src="https://aivlog.onrender.com/file/1686045773890-blog-AIVANA.gif">
-<h1 align="center"> Hi :trollface:, I am Sunny Sharma</h1> 
+<h1 align="center"> Hi :trollface:, I am Sunny Sharma</h1>
 <h3 align="center">A Passionate Front-End Deveoper from India</h3>
 💫 About Me:<img align="right" src="https://media.tenor.com/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif" style="object-fit: contain;" alt="Coder GIF" width="400" height="250"><br><br>
 🔭 I’m currently working on A.I. Verse (AIVANA)<br>👯 I’m looking to collaborate on AIVANA<br>🤝 I’m looking for help with A.I. and M.L.<br>🌱 I’m currently learning Solidity<br>💬 It is my own AI Project<br>👀 Visitiors Count<img src="https://profile-counter.glitch.me/20Sunny/count.svg">
